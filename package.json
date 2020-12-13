@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GabrielMarques09/reactudemy/issues"
   },
-  "homepage": "https://github.com/GabrielMarques09/reactudemy#readme"
+  "homepage": "https://github.com/GabrielMarques09/reactudemy#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
